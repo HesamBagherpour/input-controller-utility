@@ -1,6 +1,6 @@
 {
-    "name": "Emaj.InputControllerUtility",
-    "rootNamespace": "Emaj.InputControllerUtility",
+    "name": "ArioSoren.InputControllerUtility",
+    "rootNamespace": "ArioSoren.InputControllerUtility",
     "references": [
         "Unity.InputSystem"
     ],
