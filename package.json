@@ -1,0 +1,20 @@
+﻿{
+  "name": "as.VR-Battlefied-Ekbatan-Showdown.input-controller-utility",
+  "displayName": "Input Controller Utility",
+  "version": "1.0.0",
+  "refrenceVersion": "1.0.0",
+  "packageType" : "VR-Battlefied-Ekbatan-Showdown",
+  "description": "This package is for Input Controller",
+  "hideInEditor": false,
+  "author": {
+    "name": "Ario-Soren General Utility"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.4"
+  },
+  "repository": {
+    "type": "gitlab",
+    "url": "https://github.com/HesamBagherpour/input-controller-utilityAssets/Packages/input-controller-utility/input-controller-utility/package.json"
+
+  }
+}
